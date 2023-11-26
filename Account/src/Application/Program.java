@@ -9,7 +9,6 @@ import model.exception.DomainException;
 public class Program {
 
 	public static void main(String[] args) {
-		try { 
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 
